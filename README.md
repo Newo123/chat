@@ -1,8 +1,14 @@
 # React + TypeScript + Vite
 
+# Установка зависимостей 
 ```console
-установка зависимостей npm install
-запуск проекта npm run dev
+npm install
+
+```
+
+# Запуск проекта
+```console
+npm run dev
 ```
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
